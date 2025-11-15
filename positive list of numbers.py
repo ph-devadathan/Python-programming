@@ -5,3 +5,4 @@ for x in num:
     if(x>0):
         print(x)
         
+
